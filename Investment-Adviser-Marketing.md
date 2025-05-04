@@ -42,18 +42,36 @@ The SEC's Division of Investment Management has updated its Marketing Compliance
 3. The second FAQ avoids determining whether specific characteristics qualify as "performance," providing flexibility
 4. Despite the new guidance, advisers should remain vigilant in their compliance efforts
 
-## Names Rule Compliance Date Extension (May 2025)
+# SEC Adopts Amendments to Investment Company Act "Names Rule"
 
-The SEC has announced a six-month extension for compliance with amendments to the Investment Company Act "Names Rule" (adopted September 2023).
+**Washington D.C., Sept. 20, 2023** —  
+The Securities and Exchange Commission (SEC) today adopted amendments to the Investment Company Act “Names Rule,” aimed at addressing fund names that may mislead investors about a fund’s investments and associated risks. These amendments modernize and strengthen the Names Rule to align with developments in the fund industry over the past two decades and further the SEC’s investor protection goals.
 
-### Updated Compliance Dates
+> “As the fund industry has developed over the last two decades, gaps in the current Names Rule may undermine investor protection,” said **SEC Chair Gary Gensler**. “Today’s final rules will help ensure that a fund’s portfolio aligns with a fund’s name. Such truth in advertising promotes fund integrity on behalf of fund investors.”
 
-- **Larger fund groups**: Extended from December 11, 2025, to June 11, 2026
-- **Smaller fund groups**: Extended from June 11, 2026, to December 11, 2026
+## Key Points of the Amendments
 
-### Rationale for Extension
+- **Expanded 80% Investment Policy**:  
+  Funds whose names suggest a focus on certain investments or characteristics (e.g., “growth,” “value,” ESG factors) must adopt a policy to invest at least 80% of the value of their assets in accordance with that focus.
 
-- Balance investor benefits with funds' implementation needs
-- Allow time to develop and finalize compliance systems
-- Provide opportunity to test compliance plans
-- Align compliance dates with annual disclosure and reporting obligations tied to fund fiscal year-end to help avoid additional costs
+- **Quarterly Portfolio Review**:  
+  Funds must review their compliance with the 80% investment policy at least **quarterly**.
+
+- **Compliance Time Frames**:  
+  Funds must come back into compliance within **90 days** if they fall out of alignment with the 80% investment requirement.
+
+- **Plain English & Industry Terminology**:  
+  Terms used in fund names must reflect their **plain English meaning** or have a clearly **established industry use**.
+
+- **Enhanced Disclosure and Recordkeeping**:  
+  - Additional **prospectus disclosures** required for fund name terminology.  
+  - New **reporting and recordkeeping** requirements to document compliance with name-related rules.
+
+## Implementation Timeline
+
+- **Effective Date**:  
+  60 days after publication in the Federal Register.
+
+- **Compliance Period**:  
+  - Fund groups with **≥ $1 billion** in net assets: **24 months** to comply.  
+  - Fund groups with **< $1 billion** in net assets: **30 months** to comply.
